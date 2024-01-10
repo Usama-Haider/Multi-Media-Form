@@ -1,0 +1,10 @@
+.ad-wrapper{
+    min-height: 100vh;
+    background: url('../imges/pexels-eric-anada-3660204.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* filter: blur(3px); */
+    
+}
